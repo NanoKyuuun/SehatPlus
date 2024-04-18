@@ -11,7 +11,7 @@ Untuk menginstall dan menjalankan project ini di lokal Anda, ikuti langkah-langk
 
 1. Clone repository ini ke lokal Anda menggunakan perintah:
    ```
-   git clone https://github.com/username/sehatpluss.git
+   git clone https://github.com/chitoge435/SehatPlus
    ```
 2. Masuk ke direktori project:
    ```
